@@ -1,5 +1,5 @@
 # Hello Conflict!
-### CPNT201 ASSignment 4 
+### CPNT201 Assignment 4 
 * Temp Repo to cause a merge conflict on purpose 
 * This repo is to practice merg conflicts
 
